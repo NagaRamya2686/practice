@@ -70,10 +70,6 @@ class App extends Component {
     console.log(passwordsList)
     console.log(showPasswords)
 
-    // console.log(website)
-    // console.log(password)
-    // console.log(username)
-
     return (
       <div className="container p-5">
         <div className="row">
